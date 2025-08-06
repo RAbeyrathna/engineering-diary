@@ -5,6 +5,10 @@ This repo is my dedicated space to track daily progress, reflect weekly, and bui
 
 ![Inspiration](https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif)
 
+![Daily Logs](https://img.shields.io/badge/Daily_Logs-Active-brightgreen?style=flat-square)  
+![Weekly Reviews](https://img.shields.io/badge/Weekly_Reviews-Sundays-blue?style=flat-square)  
+![Projects](https://img.shields.io/badge/Projects-In_Progress-yellow?style=flat-square)  
+
 ---
 
 ## 📂 Folder Structure
