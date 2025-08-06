@@ -48,6 +48,31 @@ engineering-diary/
 
 ---
 
+## 🌅 Morning Plan & Priorities
+
+This section helps me **set clear intentions every day** before I start coding.  
+I don’t need to fill every category daily — just the ones relevant to that session.
+
+- 🔴 **HIGH PRIORITY:**  
+  The most important task of the day. If I only accomplish one thing, it should be this.  
+- 📘 **LEARNING:**  
+  Topics, tutorials, or concepts I’m actively studying.  
+- 🤝 **MENTORSHIP:**  
+  Any mentoring sessions, study groups, or discussions with peers.  
+- 💻 **PROJECT:**  
+  Progress on current projects or building new features.  
+- 🚀 **DEPLOYMENT:**  
+  Anything related to shipping code, testing, or setting up environments.  
+- 📖 **READING:**  
+  Articles, books, or docs I want to get through today.  
+- 🌀 **STRETCH:**  
+  Bonus tasks — nice to do if I have extra time and energy.
+
+> ✅ **Pro Tip:** Keep HIGH PRIORITY to **one task only**.  
+It prevents overwhelm and ensures consistent daily wins.
+
+---
+
 ## 📆 Weekly Reviews (`reviews/`)
 
 **Purpose:** Step back to reflect on the big picture, celebrate wins, and adjust course.  
