@@ -40,9 +40,10 @@
 
 ## 📚 Learnings
 
-| Topic | Takeaway | Resource |
-|-------|----------|----------|
-|       |          |          |
+| Topic | Takeaway | Notes | Resource |
+| ----- | -------- | ----- | -------- |
+|       |          |       |          |
+|       |          |       |          |
 
 ---
 
@@ -51,6 +52,14 @@
 - 
 
 > 🎯 **Plan to Fix:**  
+
+
+---
+
+## 📝 General Notes
+
+- 
+
 
 ---
 
