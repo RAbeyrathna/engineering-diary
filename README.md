@@ -1,6 +1,6 @@
-# 📝 Engineering Diary
+# 📝 Developer Journal
 
-Welcome to my engineering diary!  
+Welcome to my developer journal!  
 This repo is my dedicated space to track daily progress, reflect weekly, and build long-term growth as a software engineer.
 
 ![Inspiration](https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif)
@@ -42,6 +42,7 @@ engineering-diary/
   - 🛠️ *What I Built Today* → code, experiments, or milestones
   - 📚 *Learnings* → key takeaways, with resources if possible
   - 🐛 *Bugs / Blockers* → issues and plan to fix
+  -  📝 General Notes/Day Summary → General notes throughout the day or a space to summarise how the day went
   - 🔮 *Next Steps / Tomorrow* → checklist for the next session
 
 ✅ **Aim:** Show consistent daily growth and spot patterns in learning.  

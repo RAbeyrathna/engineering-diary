@@ -1,72 +1,84 @@
-# 🚀 Daily Dev Log — YYYY-MM-DD
+# 🚀 Daily Dev Log — YYYY-MM-DD  
 
-*"The grind never stops!"*
+*"The grind never stops!"*  
 
-![Studying](https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif)
-
----
-
-## 🌅 Morning Plan & Priorities
-
-- 🔴 **HIGH PRIORITY:**
-- 📘 **LEARNING:**
-- 🤝 **MENTORSHIP:**
-- 💻 **PROJECT:**
-- 🚀 **DEPLOYMENT:**
-- 📖 **READING:**
-- 🌀 **STRETCH:**
+![Studying](https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif)  
 
 ---
 
-## 🔋 Energy & Mood
+## 🌅 Morning Plan & Priorities  
 
-- ⚡ **Energy Level:**  /10
+**📋 Tasks Carried Over from Yesterday**  
+- [ ]  
 
+**🎯 Focus Areas for Today**  
+- 🔴 **High Priority:**  
+- 📘 **Learning:**  
+- 🤝 **Mentorship:**  
+- 💻 **Project:**  
+- 🚀 **Deployment:**  
+- 📖 **Reading:**  
+- 🌀 **Stretch Goal:**  
+
+---
+
+## 🔋 Energy & Mood  
+
+- ⚡ **Energy Level:** /10  
 - ☕ **Coffee Count:**  
 
 ---
 
-## 🛠️ What I Built Today
+## 🛠️ What I Built Today  
 
-### 🏗️ Session Highlights
+**🏗️ Session Highlights**  
+-  
 
-- 
-
-### 💡 Key Breakthroughs
-
-- 
+**💡 Key Breakthroughs**  
+-  
 
 ---
 
-## 📚 Learnings
+## 📚 Learnings  
 
-| Topic | Takeaway | Notes | Resource |
-| ----- | -------- | ----- | -------- |
-|       |          |       |          |
-|       |          |       |          |
+### 📌 Topic 1  
+**Key Takeaways**  
+-  
+
+**Notes**  
+-  
+
+**Resource:**  
 
 ---
 
-## 🐛 Bugs / Blockers
+### 📌 Topic 2  
+**Key Takeaways**  
+-  
 
-- 
+**Notes**  
+-  
+
+**Resource:**  
+
+---
+
+## 🐛 Bugs / Blockers  
+
+-  
 
 > 🎯 **Plan to Fix:**  
 
+---
+
+## 📝 General Notes / Day Summary  
+
+-  
 
 ---
 
-## 📝 General Notes
-
-- 
-
-
----
-
-## 🔮 Next Steps / Tomorrow
+## 🔮 Next Steps / Tomorrow  
 
 - [ ]  
 - [ ]  
 - [ ]  
-
----
